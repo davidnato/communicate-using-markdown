@@ -4,3 +4,4 @@
 #### It a very good website for any developer to associate with
 ##### Am now trying the header 5
 ###### Then header 6
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
