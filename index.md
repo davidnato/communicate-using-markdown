@@ -8,3 +8,6 @@
 ```
 System.out.printl("Hello World")
 ```
+- [ ] Turn on GitHub pages
+- [ ] Create Hero Section
+- [ ] Styling the page
